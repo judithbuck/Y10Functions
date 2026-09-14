@@ -4,14 +4,14 @@
     {
         static void Main(string[] args)
         {
-            // complete the code below for a function 'Power' to calculate
+            // complete the code below for a function 'Raise To Power' to calculate
             // result of 7 ^ 2 by replacing the '?' with the appropriate C# code
             // test with other 'power' calculations eg 8 ^ 3,  5 ^ 1, 15 ^ 0
-            int myresult = Power();
+            int myresult = raisetoPower();
             Console.WriteLine("7 to the power 2  = " + myresult);
         }
 
-        static int Power()
+        static int raisetoPower()
         {
             int num = 7;
             int power = 2;
