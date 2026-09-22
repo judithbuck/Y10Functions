@@ -19,11 +19,24 @@
             int result = ?;
 
             for (int i = ?; i <= ?; i++)
+
+
+        }
+        // answer below
+
+        static int raiseToPowerComplete(int num, int power)
+        {
+            //int num = 7;
+            //int power = 1;
+
+            int result = 1;
+
+            for (int i = 1; i <= power; i++)
             {
-                result = ?;
+                result = result * num;
             }
+
             return result;
         }
-
     }
 }
