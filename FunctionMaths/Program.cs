@@ -4,7 +4,15 @@
     {
         static void Main(string[] args)
         {
-            double answer = choiceMaths(, , );
+            //function to add, subtract, multiply or divide two numbers based
+            //optional - ask for user in
+            //decide what variables and their 'data type' you need to pass to the function
+            //declare the variables here
+
+
+
+            //call function
+            double answer = choiceMaths( , , );
             Console.WriteLine(answer); 
         }
 
