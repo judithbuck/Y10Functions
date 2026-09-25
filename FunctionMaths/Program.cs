@@ -4,8 +4,8 @@
     {
         static void Main(string[] args)
         {
-            //function to add, subtract, multiply or divide two numbers based
-            //optional - ask for user in
+            //function to add, subtract, multiply or divide two numbers 
+            //optional - ask for user input
             //decide what variables and their 'data type' you need to pass to the function
             //declare the variables here
 
